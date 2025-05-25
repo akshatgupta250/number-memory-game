@@ -11,7 +11,7 @@ function App() {
 
   function handleGridSize(e){
     if(e > 1 && e < 11){
-      setGridSize(e);
+      setGridSize(e); 
     }
   }
 
